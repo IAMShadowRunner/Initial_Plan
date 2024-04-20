@@ -59,5 +59,4 @@ $$ \frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u $$
 $$ i\hbar \frac{\partial}{\partial t} \psi = \left( -i\hbar c \alpha \cdot \nabla + mc^2 \beta \right) \psi $$
 
 ### Equation 47: Hubble's Law
-$$ v = H_0 D $$
-
+x EC:65 56=6E:?8 >J H6== <?@H? A:4EFC6 D92C:?8 244@F?E[ 3FE 5:5?VE H@C<]] 2?J 8F:56 7@C :E 
