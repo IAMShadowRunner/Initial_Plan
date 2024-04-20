@@ -57,3 +57,7 @@ $$ \frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u $$
 
 ### Equation 46: Dirac Equation
 $$ i\hbar \frac{\partial}{\partial t} \psi = \left( -i\hbar c \alpha \cdot \nabla + mc^2 \beta \right) \psi $$
+
+### Equation 47: Hubble's Law
+$$ v = H_0 D $$
+
